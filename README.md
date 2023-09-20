@@ -1,6 +1,6 @@
 ### Hello, I'm JV Barros
 
-Learning Software Development with Santander Coder's / ADA Bootcamp.
+I`m a Business Analyst learning Software Development.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-victor-barros/)
 
